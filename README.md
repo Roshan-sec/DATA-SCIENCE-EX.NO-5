@@ -32,6 +32,7 @@ df = pd.DataFrame(
    columns=iris.feature_names
 )
 ~~~
+~~~
 # STEP 3: Visualize data
 
 # Line Plot
