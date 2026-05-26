@@ -103,4 +103,4 @@ plt.show()
 
 
 # Result:
- Include your result here
+ The code was executed and verified succesfully.
